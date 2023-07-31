@@ -9,5 +9,5 @@ repos:
 - repo: https://github.com/PyCQA/flake8
   rev: 6.0.0
   hooks:
-  - id: flake8
-    args: [--ignore=E501]
+    - id: flake8
+      args: [--ignore=E501]
